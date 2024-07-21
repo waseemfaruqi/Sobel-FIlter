@@ -1,2 +1,2 @@
 # Sobel-FIlter
-Sobel filter for 
+Sobel filter for Edge Detection
